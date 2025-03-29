@@ -1,5 +1,5 @@
 # 👋 Hi! Welcome to My GitHub Profile!
-I'm **Jiming** – a versatile developer with a passion for technology and all things mobile, whether on wheels or wings. I thrive on exploring cutting-edge innovations and building projects that bridge the gap between creativity and functionality. Constantly curious and driven by challenges, I love turning bold ideas into tangible solutions.
+I'm **Jiming** – a versatile developer with a passion for technology and all things mobile, whether on wheels 🚗 or wings✈️ . I thrive on exploring cutting-edge innovations and building projects that bridge the gap between creativity and functionality. Constantly curious and driven by challenges, I love turning bold ideas into tangible solutions.
 
 
 ## 🛠️ Tech Stack
