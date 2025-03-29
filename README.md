@@ -48,10 +48,3 @@ I enjoy exploring the latest technologies and building innovative projects acros
   <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine" />
   <img src="https://img.shields.io/badge/Roblox_Studio-FF0000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio" />
 </p>
-
-### 🌏 Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/English-000000?style=for-the-badge&logo=english&logoColor=white" alt="English" />
-  <img src="https://img.shields.io/badge/Mandarin-FF0000?style=for-the-badge&logo=chinese&logoColor=white" alt="Mandarin" />
-  <img src="https://img.shields.io/badge/Cantonese-1E90FF?style=for-the-badge&logo=chinese&logoColor=white" alt="Cantonese" />
-</p>
