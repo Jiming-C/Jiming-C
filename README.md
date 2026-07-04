@@ -1,72 +1,78 @@
-<div align="center">
+```text id="jiming-banner"
+      __  _           _              
+     / / (_)___ ___  (_)___  ____ _
+    / / / / __ `__ \/ / __ \/ __ `/
+   / /_/ / / / / / / / / / / /_/ / 
+   \____/_/ /_/ /_/_/_/ /_/\__, /  
+                           /____/   
+```
 
-# Hi, I'm Jiming 👋
+# Hi, I'm Jiming
 
-### Computer Science Student • Software Engineer • Builder
+Computer Science student at the University of Maryland, College Park.
+Software engineer interested in AI, automotive technology, robotics, simulation, and practical tools that solve real problems.
 
-I’m a developer who enjoys building practical software across web, systems, automation, simulation, and mobility-focused projects. I’m especially interested in AI, automotive technology, robotics, and tools that turn complex workflows into simple, useful experiences.
+I like building things that connect software with the physical world, whether that means internal tools, web apps, automation, vehicle-focused systems, or creative technical projects.
 
-<p>
-  <a href="https://jimingc.com">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/jimingc">LinkedIn</a> •
-  <a href="mailto:jimingchen2015@gmail.com">Email</a>
-</p>
-
-</div>
+```text id="current-focus"
+current focus:
+  software engineering  |  AI tooling  |  mobility tech
+  backend systems       |  simulation   |  product-minded development
+```
 
 ---
 
-## About Me
+## About
 
-* 🎓 Computer Science student at the University of Maryland, College Park
-* 💻 Software engineering experience across financial systems, defense simulation tools, and applied research
-* 🚗 Interested in automotive technology, autonomy, robotics, and mobility systems
-* 🛠️ I like building things that are useful, polished, and grounded in real user needs
-* ✈️ Always curious about technology, transportation, and how software connects the physical and digital world
+```text id="about"
+school:        University of Maryland, College Park
+major:         Computer Science
+interests:     AI, automotive tech, robotics, simulation, web apps
+experience:    software engineering, defense simulation, financial systems
+builder mode:  always on
+```
 
 ---
 
 ## Tech Stack
 
-### Languages
+```text id="tech-stack"
+languages:
+  Java  Python  JavaScript  C  C#  SQL  MATLAB  Lua  R  Assembly
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,c" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Assembly-333333?style=flat&logo=gnubash&logoColor=white" />
-</p>
+web:
+  React  Flask  HTML  CSS  Tailwind CSS
 
-### Web & Cloud
+tools:
+  Git  Linux/Unix  Docker  VS Code  Visual Studio  PyCharm  Eclipse
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,flask,tailwind,azure,aws" />
-</p>
+data / ai:
+  Pandas  NumPy  PyTorch  OpenCV
 
-### Tools & Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,linux,visualstudio,vscode,pycharm,eclipse,unreal" />
-  <img src="https://img.shields.io/badge/Tkinter-306998?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Roblox_Studio-000000?style=flat&logo=roblox&logoColor=white" />
-</p>
+cloud / platforms:
+  AWS  Azure  Vercel  Roblox Studio  Unreal Engine
+```
 
 ---
 
 ## What I Like Building
 
-| Area                 | What I Work On                                                               |
-| -------------------- | ---------------------------------------------------------------------------- |
-| Software Engineering | Internal tools, automation, backend logic, and user-facing applications      |
-| AI & Data            | Applied AI workflows, computer vision, and intelligent tooling               |
-| Mobility Tech        | Automotive software, autonomy-adjacent projects, and vehicle-focused systems |
-| Simulation           | Defense simulation tools, serious games, and interactive technical systems   |
-| Product Thinking     | Tools that reduce friction, improve workflows, and solve real user problems  |
+```text id="building"
+[01] internal tools
+     making workflows faster, cleaner, and easier to use
+
+[02] AI-powered systems
+     using AI to automate, assist, or improve technical workflows
+
+[03] mobility technology
+     software connected to cars, autonomy, robotics, and transportation
+
+[04] simulation tools
+     interactive systems, serious games, and technical visualizations
+
+[05] web products
+     polished apps with clean user experiences
+```
 
 ---
 
@@ -74,14 +80,14 @@ I’m a developer who enjoys building practical software across web, systems, au
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=jiming-c&show_icons=true&hide_border=true&theme=default" 
+    src="https://github-readme-stats.vercel.app/api?username=jiming-c&show_icons=true&hide_border=true&theme=transparent" 
     alt="Jiming's GitHub stats" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiming-c&layout=compact&hide_border=true&theme=default" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiming-c&layout=compact&hide_border=true&theme=transparent" 
     alt="Top languages" 
   />
 </p>
@@ -95,33 +101,12 @@ I’m a developer who enjoys building practical software across web, systems, au
 
 ---
 
-## Current Interests
+## Connect
 
-```text
-AI tooling        ████████████░░░
-Automotive tech   █████████████░░
-Web development   ███████████░░░░
-Robotics          ██████████░░░░░
-Simulation        ████████████░░░
+```text id="connect"
+portfolio:  jimingc.com
+linkedin:   linkedin.com/in/jimingc
+email:      jimingchen2015@gmail.com
 ```
 
----
-
-<pre align="center">
-      /\_/\
-     ( o.o )    building something useful...
-      > ^ <
-   ┌─────────┐
-   │  code   │
-   └─────────┘
-</pre>
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile.
-
-I’m always building, learning, and looking for ways to connect software with real-world problems.
-
-</div>
+Thanks for stopping by.
