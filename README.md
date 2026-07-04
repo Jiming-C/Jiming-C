@@ -1,12 +1,3 @@
-```text id="jiming-banner"
-      __  _           _              
-     / / (_)___ ___  (_)___  ____ _
-    / / / / __ `__ \/ / __ \/ __ `/
-   / /_/ / / / / / / / / / / /_/ / 
-   \____/_/ /_/ /_/_/_/ /_/\__, /  
-                           /____/   
-```
-
 # Hi, I'm Jiming
 
 Computer Science student at the University of Maryland, College Park.
