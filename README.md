@@ -45,27 +45,6 @@ cloud / platforms:
 ```
 
 ---
-
-## What I Like Building
-
-```text id="building"
-[01] internal tools
-     making workflows faster, cleaner, and easier to use
-
-[02] AI-powered systems
-     using AI to automate, assist, or improve technical workflows
-
-[03] mobility technology
-     software connected to cars, autonomy, robotics, and transportation
-
-[04] simulation tools
-     interactive systems, serious games, and technical visualizations
-
-[05] web products
-     polished apps with clean user experiences
-```
-
----
 ## Connect
 
 ```text id="connect"
