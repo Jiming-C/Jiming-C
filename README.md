@@ -3,14 +3,7 @@
 Computer Science student at the University of Maryland, College Park.
 Software engineer interested in AI, automotive technology, robotics, simulation, and practical tools that solve real problems.
 
-I like building things that connect software with the physical world, whether that means internal tools, web apps, automation, vehicle-focused systems, or creative technical projects.
-
-```text id="current-focus"
-current focus:
-  software engineering  |  AI tooling  |  mobility tech
-  backend systems       |  simulation   |  product-minded development
-```
-
+I like building things that connect software with the physical world!
 ---
 
 ## About
