@@ -17,27 +17,6 @@ builder mode:  always on
 ```
 
 ---
-
-## Tech Stack
-
-```text id="tech-stack"
-languages:
-  Java  Python  JavaScript  C  C#  SQL  MATLAB  Lua  R  Assembly
-
-web:
-  React  Flask  HTML  CSS  Tailwind CSS
-
-tools:
-  Git  Linux/Unix  Docker  VS Code  Visual Studio  PyCharm  Eclipse
-
-data / ai:
-  Pandas  NumPy  PyTorch  OpenCV
-
-cloud / platforms:
-  AWS  Azure  Vercel  Roblox Studio  Unreal Engine
-```
-
----
 ## Connect
 
 ```text id="connect"
