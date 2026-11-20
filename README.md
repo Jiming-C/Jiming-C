@@ -1,3 +1,3 @@
 <a href="https://jimingc.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jiming-C/Jiming-C/output/dash-dark.svg" /><img alt="Jiming Chen: CS at the University of Maryland, open to 2027 new-grad SWE and APM roles and Winter/Spring 2027 co-ops. A dashboard of the last 12 months on GitHub, where I've worked, my toolbox and links." src="https://raw.githubusercontent.com/Jiming-C/Jiming-C/output/dash-light.svg" width="100%" /></picture></a>
 
-<p align="center"><sub><a href="https://jimingc.com">jimingc.com</a> · <a href="https://linkedin.com/in/jimingc">LinkedIn</a> · <a href="mailto:jimingchen2015@gmail.com">Email</a> · the dash redraws itself every few hours from live data</sub></p>
+<p align="center"><sub><a href="https://jimingc.com">jimingc.com</a> · <a href="https://linkedin.com/in/jimingc">LinkedIn</a> · <a href="mailto:jimingchen2015@gmail.com">Email</a></sub></p>

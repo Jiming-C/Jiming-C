@@ -6,10 +6,14 @@
 
 const SANS = `-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif`;
 const MONO = `ui-monospace,SFMono-Regular,Menlo,monospace`;
-const C = {
-  ink: "#f4e9ea", dim: "#a39aa8", label: "#8b949e", track: "#2a2433", tick: "#6e6478", band: "#110e16", bandStroke: "#2a2433",
-  pink: "#f0a9bc", rose: "#d0628c", wine: "#9b2f5e", red: "#e5202a",
+// each theme on GitHub's own page colour: GitHub's text and border greys, the blossom pinks as the accent
+const PAL = {
+  dark: { ink: "#f0f6fc", dim: "#9198a1", label: "#9198a1", track: "#262c36", tick: "#484f58", band: "#151b23", bandStroke: "#21262d",
+    pink: "#f0a9bc", rose: "#d0628c", wine: "#9b2f5e", red: "#e5202a" },
+  light: { ink: "#1f2328", dim: "#59636e", label: "#59636e", track: "#e5e8ec", tick: "#a6aeb7", band: "#f6f8fa", bandStroke: "#d1d9e0",
+    pink: "#c4507f", rose: "#d2628d", wine: "#9b2f5e", red: "#d1242f" },
 };
+let C = PAL.dark;
 export const THEME = {
   dark: { p0: "#1d1826", p1: "#141019", stroke: "#2f2839", shadow: "#000000", shadowOp: 0.35 },
   light: { p0: "#2a2433", p1: "#1b1622", stroke: "#d9ccd3", shadow: "#9b2f5e", shadowOp: 0.16 },
@@ -18,6 +22,7 @@ const esc = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
 const r2 = (n) => Math.round(n * 100) / 100;
 
 let BARE = false;
+export { PAL };
 export const setBare = (b) => { BARE = b; };
 // one panel: the cluster's plum gradient, rim, soft shadow and the glass sheen that crosses it now and then
 function panel(key, theme, W, H, body, css, label) {
@@ -53,6 +58,7 @@ const text = (x, y, s, o = {}) => `<text x="${x}" y="${y}" font-family="${o.mono
 // ---------------------------------------------------------------------------------------------------------------- intro
 const ROLES = ["Software Engineer", "Full-Stack Developer", "Founder", "Car Enthusiast", "Product Manager"];
 export function intro(theme) {
+  C = PAL[theme];
   const W = 840, H = 168, per = 3.2, cyc = per * ROLES.length;
   let css = `.caret{animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}
 .led{animation:led 2.4s ease-in-out infinite}@keyframes led{0%,100%{opacity:1}50%{opacity:.35}}`;
@@ -93,6 +99,7 @@ ${label(548, 142, "GRADUATING MAY 2027", { fill: C.pink, size: 9 })}`;
 
 // ---------------------------------------------------------------------------------------------------------------- links
 function button(theme, key, word, sub) {
+  C = PAL[theme];
   const W = 272, H = 64;
   const css = `.dot{animation:dt 2.6s ease-in-out infinite}@keyframes dt{0%,100%{opacity:1}50%{opacity:.3}}`;
   return panel(`b${key}`, theme, W, H, (id) => `
@@ -112,6 +119,7 @@ const JOBS = [
   { co: "NIO Detailing", role: "Founder", what: "400+ customers; automated booking cut booking time 70%", from: [2023, 4], to: null },
 ];
 export function worked(theme, now = [2026, 11]) {
+  C = PAL[theme];
   const W = 840, top = 58, rowH = 44, H = top + JOBS.length * rowH + 40;
   const L = 420, R = 806, y0 = 2023, y1 = 2027;
   const X = ([y, m]) => r2(L + (((y - y0) * 12 + (m - 1)) / ((y1 - y0) * 12)) * (R - L));
